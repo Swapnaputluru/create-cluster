@@ -11,5 +11,5 @@ provider "google" {
   project = "usecase-2-412812"
   region = "us-cental1"
   zone = "us-cental1-a"
-  credentials = "bigtable-key.json"
+  credentials = "usecase2key.json"
 }
